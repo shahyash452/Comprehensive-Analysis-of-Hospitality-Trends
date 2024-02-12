@@ -23,3 +23,13 @@ In collaboration with AtliQ Grands, a renowned luxury hotel chain, we embarked o
 3. **Data-Driven Decision-Making**: Application of data-driven methodologies for optimizing pricing and occupancy strategies.
 
 4. **Effective Data Presentation**: Skillful presentation of data to aid in strategic decision-making processes.
+
+  ## Visual Dashboards 
+
+![Screenshot 2024-01-30 202437](https://github.com/shahyash452/Comprehensive-Analysis-of-Hospitality-Trends/assets/82044373/592a5dd5-12ae-4a7e-95e4-788726791cc2)
+![Screenshot 2024-01-30 202605](https://github.com/shahyash452/Comprehensive-Analysis-of-Hospitality-Trends/assets/82044373/79f0b214-2a98-4113-a1a8-1f05cac30127)
+![Screenshot 2024-01-30 202717](https://github.com/shahyash452/Comprehensive-Analysis-of-Hospitality-Trends/assets/82044373/b5df86e9-56ee-4914-828c-fa5a3881cc2f)
+
+
+
+   
